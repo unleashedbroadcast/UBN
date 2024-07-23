@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "e57cfe0736f801aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f61922fe90b40a",
+        "type": "tabs",
+        "dimension": 45.43546694648477,
+        "children": [
+          {
+            "id": "2bb37c37311440e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development_Plan/UBN Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd70971aba773ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/PM_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "382922a2020354e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/SDL2_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ba64606f3e5cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/FFmpeg_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d28ead5b28ed435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/CPP_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39a0f754e4c87012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/ImGui_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05cc7b48a72ec460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/Instructions/Dev_Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "bff99d73de701d14",
+        "type": "tabs",
+        "dimension": 54.56453305351523,
+        "children": [
+          {
+            "id": "aca7a2e368cb396e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Overview/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72b9eb86dd530561",
+    "type": "split",
+    "children": [
+      {
+        "id": "58762e66eb6e93d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2354d20ae7c4bbf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "a1919459f5589835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b5e89e5c52d80d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "55d4d1b23df7323b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1ad4a412550c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "961830c4bb1bbb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bede9bfbef7960fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agents/Instructions/Dev_Agent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50c15af6e9d64549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agents/Instructions/Dev_Agent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5772c2a326bf97e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88fe1e92213f0b92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agents/Instructions/Dev_Agent.md"
+              }
+            }
+          },
+          {
+            "id": "d8da6778bac20d5a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "05cc7b48a72ec460",
+  "lastOpenFiles": [
+    "Agents/Instructions/CPP_Agent.md",
+    "Agents/Instructions/Dev_Agent.md",
+    "Agents/Instructions/FFmpeg_Agent.md",
+    "Agents/Instructions/GitHub_Agent.md",
+    "Agents/Instructions/ImGui_Agent.md",
+    "Agents/Instructions/PM_Agent.md",
+    "Agents/Instructions/SDL2_Agent.md",
+    "Agents/Instructions/SRT_Agent.md",
+    "Agents/Instructions/VS_Agent.md",
+    "Agents/Instructions/Vulkan_Agent.md",
+    "Agents/Instructions",
+    "Development_Plan/UBN Project.md",
+    "Project_Overview/Overview.md",
+    "UBN",
+    "UBN_Solution/UBN_Solution.sln",
+    "UBN_Solution/UBN/UBN.vcxproj.filters",
+    "UBN_Solution/UBN/UBN.vcxproj.user",
+    "UBN_Solution/UBN/UBN.vcxproj",
+    "UBN_Solution/UBN",
+    "UBN_Solution",
+    "UBN/UBN.sln",
+    "UBN/UBN.vcxproj.filters",
+    "2024-07-18.md",
+    "Welcome.md"
+  ]
+}
